@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\med\\AppData\\Local\\Programs\\Python\\Python37\\python.exe"
+    "python.pythonPath": "C:\\Users\\med\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "python.envFile": "${workspaceFolder}\\.env",
+    "python.jediEnabled": true,
 }
